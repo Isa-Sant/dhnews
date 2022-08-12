@@ -1,0 +1,11 @@
+Formas de aplicar o css:
+
+    1 - Dentro do proprio html como atributo de elemento.
+Vantagens: simples de fazer funcionar!
+
+    2 - Criar um elemento style dentro do html.
+    (em geral no elemento head)
+    Vantagens: centraliza o codigo css.
+
+    3 - Criar e linkar um css externo.
+
